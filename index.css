@@ -47,7 +47,7 @@ img {
 }
 
 .ost-main {
-    /* width: 980px; */
+    width: 980px;
 }
 
 .ost-main div {
@@ -1067,7 +1067,7 @@ img {
 }
 
 .match_news .item_title:hover {
-    border-bottom: 1px solid #333;
+    text-decoration: underline;
 }
 
 .match_news .item_date {
